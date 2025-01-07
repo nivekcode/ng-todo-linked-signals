@@ -1,0 +1,14 @@
+{
+  "todos": [
+    {
+      "id": "c75f",
+      "title": "Learn Angular",
+      "done": false
+    },
+    {
+      "id": "d566",
+      "title": "Learn Svelte",
+      "done": false
+    }
+  ]
+}
